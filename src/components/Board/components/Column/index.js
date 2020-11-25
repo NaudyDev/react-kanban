@@ -33,7 +33,6 @@ function Column({
             style={{
               height: '100%',
               minHeight: '28px',
-              maxHeight:100%,
               display: 'inline-block',
               verticalAlign: 'top',
               ...columnProvided.draggableProps.style,
